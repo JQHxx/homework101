@@ -1,0 +1,27 @@
+//
+//  HomeworkPrefixHeader.pch
+//  Homework
+//
+//  Created by vision on 2019/9/5.
+//  Copyright © 2019 vision. All rights reserved.
+//
+
+#ifndef HomeworkPrefixHeader_pch
+#define HomeworkPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* HomeworkPrefixHeader_pch */
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "Config.h"
+#import "Interface.h"
+#import "Defines.h"
+
+
+#endif

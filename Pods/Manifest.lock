@@ -1,0 +1,116 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AlipaySDK-iOS (15.5.9)
+  - IQKeyboardManager (6.4.2)
+  - MJRefresh (3.2.0)
+  - RongCloudIM/IMKit (2.9.24):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.9.24)
+  - RongCloudRTC/RongCallKit (2.9.24):
+    - RongCloudIM/IMKit (~> 2.9.24)
+    - RongCloudIM/IMLib (~> 2.9.24)
+    - RongCloudRTC/RongCallLib
+  - RongCloudRTC/RongCallLib (2.9.24):
+    - RongCloudIM/IMLib (~> 2.9.24)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.1.1):
+    - SDWebImage/Core (= 5.1.1)
+  - SDWebImage/Core (5.1.1)
+  - SVProgressHUD (2.2.5)
+  - UMCAnalytics (6.0.5):
+    - UMCCommon
+  - UMCCommon (2.1.1)
+  - UMCCommonLog (1.0.0)
+  - UMCPush (3.2.4):
+    - UMCCommon
+  - UMCSecurityPlugins (1.0.6)
+  - UMCShare/Core (6.9.6):
+    - UMCCommon
+  - UMCShare/Social/ReducedQQ (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+
+DEPENDENCIES:
+  - AFNetworking
+  - AlipaySDK-iOS
+  - IQKeyboardManager
+  - MJRefresh
+  - RongCloudIM/IMKit
+  - RongCloudIM/IMLib
+  - RongCloudRTC/RongCallKit
+  - RongCloudRTC/RongCallLib
+  - SDCycleScrollView
+  - SDWebImage
+  - SVProgressHUD
+  - UMCAnalytics
+  - UMCCommon
+  - UMCCommonLog
+  - UMCPush
+  - UMCSecurityPlugins
+  - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedSina
+  - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - AlipaySDK-iOS
+    - IQKeyboardManager
+    - MJRefresh
+    - RongCloudIM
+    - RongCloudRTC
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+    - UMCAnalytics
+    - UMCCommon
+    - UMCCommonLog
+    - UMCPush
+    - UMCSecurityPlugins
+    - UMCShare
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AlipaySDK-iOS: 1c5283b30977a24acecc0114662697f7dc78f618
+  IQKeyboardManager: b41e0a4943fbac4c11a239d31a688667675f962e
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  RongCloudIM: dfacebd46a313242c4c15b05ed4127c10d6d8a20
+  RongCloudRTC: 3d30f41bbebced154244714f169bcf4fb7b68f26
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: 96d7f03415ccb28d299d765f93557ff8a617abd8
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  UMCAnalytics: 045be2cd1ec05aa95ad62405a850757f932e2d59
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCCommonLog: 05a2d5de21858e3d870551562cff405c1366d244
+  UMCPush: 1edd856027dcf905333effb4040ace5d236a7316
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  UMCShare: e0cef55c0fd6051254c8cda1d0630eb578b27bad
+
+PODFILE CHECKSUM: cede177f1ea6770c62197464b2cd523e776dc7c9
+
+COCOAPODS: 1.8.4
