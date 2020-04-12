@@ -139,7 +139,6 @@
 		A22E12612338AAB100432515 /* QQ@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A22E12602338AAB000432515 /* QQ@2x.png */; };
 		A22E12632338AABA00432515 /* WeChat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A22E12622338AABA00432515 /* WeChat@2x.png */; };
 		A22E12652338AAC600432515 /* telephone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A22E12642338AAC600432515 /* telephone@2x.png */; };
-		A22E12672338AAD900432515 /* my_customer_service_xiaobao@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A22E12662338AAD900432515 /* my_customer_service_xiaobao@3x.png */; };
 		A22E12692338AAE200432515 /* telephone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A22E12682338AAE200432515 /* telephone@3x.png */; };
 		A22E126B2338AAE900432515 /* WeChat@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A22E126A2338AAE900432515 /* WeChat@3x.png */; };
 		A22E126D2338AAEF00432515 /* QQ@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A22E126C2338AAEF00432515 /* QQ@3x.png */; };
@@ -245,10 +244,6 @@
 		A286F4922334E90800CFFFDA /* my_gray@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F48E2334E90700CFFFDA /* my_gray@2x.png */; };
 		A286F4942334E90800CFFFDA /* my@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F4902334E90700CFFFDA /* my@2x.png */; };
 		A286F4952334E90800CFFFDA /* my_customer_service_xiaobao@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F4912334E90700CFFFDA /* my_customer_service_xiaobao@2x.png */; };
-		A286F4972334E91B00CFFFDA /* my_coupon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F4962334E91B00CFFFDA /* my_coupon@2x.png */; };
-		A286F4992334E92300CFFFDA /* my_consumption_record@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F4982334E92300CFFFDA /* my_consumption_record@2x.png */; };
-		A286F49B2334EA6200CFFFDA /* my_default_head@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F49A2334EA6200CFFFDA /* my_default_head@2x.png */; };
-		A286F49D2334EA6B00CFFFDA /* my_default_head@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F49C2334EA6B00CFFFDA /* my_default_head@3x.png */; };
 		A286F49F2334EBF200CFFFDA /* my_no_coaching_record@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F49E2334EBF200CFFFDA /* my_no_coaching_record@3x.png */; };
 		A286F4A12334EC0400CFFFDA /* my_no_coaching_record@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A286F4A02334EC0400CFFFDA /* my_no_coaching_record@2x.png */; };
 		A2B8E4EE234C3B9200DE41D7 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = A2B8E4EC234C3B9200DE41D7 /* Reachability.m */; };
@@ -530,7 +525,6 @@
 		A22E12602338AAB000432515 /* QQ@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QQ@2x.png"; sourceTree = "<group>"; };
 		A22E12622338AABA00432515 /* WeChat@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WeChat@2x.png"; sourceTree = "<group>"; };
 		A22E12642338AAC600432515 /* telephone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "telephone@2x.png"; sourceTree = "<group>"; };
-		A22E12662338AAD900432515 /* my_customer_service_xiaobao@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "my_customer_service_xiaobao@3x.png"; path = "../../../../../原型及UI/新版作业101学生端/新版101学生端/切图3x/my_customer_service_xiaobao@3x.png"; sourceTree = "<group>"; };
 		A22E12682338AAE200432515 /* telephone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "telephone@3x.png"; sourceTree = "<group>"; };
 		A22E126A2338AAE900432515 /* WeChat@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WeChat@3x.png"; sourceTree = "<group>"; };
 		A22E126C2338AAEF00432515 /* QQ@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QQ@3x.png"; sourceTree = "<group>"; };
@@ -670,10 +664,6 @@
 		A286F48E2334E90700CFFFDA /* my_gray@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "my_gray@2x.png"; sourceTree = "<group>"; };
 		A286F4902334E90700CFFFDA /* my@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "my@2x.png"; sourceTree = "<group>"; };
 		A286F4912334E90700CFFFDA /* my_customer_service_xiaobao@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "my_customer_service_xiaobao@2x.png"; sourceTree = "<group>"; };
-		A286F4962334E91B00CFFFDA /* my_coupon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "my_coupon@2x.png"; path = "../../../../../原型及UI/新版作业101学生端/新版101学生端/切图2x/my_coupon@2x.png"; sourceTree = "<group>"; };
-		A286F4982334E92300CFFFDA /* my_consumption_record@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "my_consumption_record@2x.png"; path = "../../../../../原型及UI/新版作业101学生端/新版101学生端/切图2x/my_consumption_record@2x.png"; sourceTree = "<group>"; };
-		A286F49A2334EA6200CFFFDA /* my_default_head@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "my_default_head@2x.png"; path = "../../../../../原型及UI/新版作业101学生端/新版101学生端/切图2x/my_default_head@2x.png"; sourceTree = "<group>"; };
-		A286F49C2334EA6B00CFFFDA /* my_default_head@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "my_default_head@3x.png"; path = "../../../../../原型及UI/新版作业101学生端/新版101学生端/切图3x/my_default_head@3x.png"; sourceTree = "<group>"; };
 		A286F49E2334EBF200CFFFDA /* my_no_coaching_record@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "my_no_coaching_record@3x.png"; sourceTree = "<group>"; };
 		A286F4A02334EC0400CFFFDA /* my_no_coaching_record@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "my_no_coaching_record@2x.png"; sourceTree = "<group>"; };
 		A2B8E4EC234C3B9200DE41D7 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
@@ -1126,8 +1116,6 @@
 				A25811FA2340C8DD0088E7F5 /* blank_coupon@3x.png */,
 				A22E125623386DCD00432515 /* record_arrow_choose@2x.png */,
 				A22E125823386DF500432515 /* record_arrow_choose@3x.png */,
-				A286F49A2334EA6200CFFFDA /* my_default_head@2x.png */,
-				A286F49C2334EA6B00CFFFDA /* my_default_head@3x.png */,
 				A286F4662334DE7200CFFFDA /* my_install@2x.png */,
 				A286F4682334DE8100CFFFDA /* my_install@3x.png */,
 				A286F46C2334E33600CFFFDA /* my_arrow_black@2x.png */,
@@ -1140,12 +1128,9 @@
 				A286F4832334E8CC00CFFFDA /* my_tutor_feedback@3x.png */,
 				A286F4712334E8AB00CFFFDA /* my_tutor_record@2x.png */,
 				A286F4822334E8CC00CFFFDA /* my_tutor_record@3x.png */,
-				A286F4982334E92300CFFFDA /* my_consumption_record@2x.png */,
 				A286F47E2334E8CC00CFFFDA /* my_consumption_record@3x.png */,
-				A286F4962334E91B00CFFFDA /* my_coupon@2x.png */,
 				A286F47A2334E8CC00CFFFDA /* my_coupon@3x.png */,
 				A286F4912334E90700CFFFDA /* my_customer_service_xiaobao@2x.png */,
-				A22E12662338AAD900432515 /* my_customer_service_xiaobao@3x.png */,
 				A22E12642338AAC600432515 /* telephone@2x.png */,
 				A22E12682338AAE200432515 /* telephone@3x.png */,
 				A22E12622338AABA00432515 /* WeChat@2x.png */,
@@ -1836,7 +1821,6 @@
 				A2233F6A236AB81C0078D45E /* subject_chinese_short@3x.png in Resources */,
 				A2E9711D2351C2DF00AE2626 /* report_add_photo@2x.png in Resources */,
 				A286F4372334A14800CFFFDA /* buy_background@2x.png in Resources */,
-				A286F49B2334EA6200CFFFDA /* my_default_head@2x.png in Resources */,
 				A216FBE2233351890023A368 /* landing_agreement_gray@3x.png in Resources */,
 				A25811F72340C8BF0088E7F5 /* blank_coach@2x.png in Resources */,
 				A286F48B2334E8CD00CFFFDA /* my@3x.png in Resources */,
@@ -1955,7 +1939,6 @@
 				A2F435102362869200329323 /* loading_iphoneX.png in Resources */,
 				A286F48A2334E8CD00CFFFDA /* my_invite_friends@3x.png in Resources */,
 				A22E125923386DF500432515 /* record_arrow_choose@3x.png in Resources */,
-				A286F4972334E91B00CFFFDA /* my_coupon@2x.png in Resources */,
 				A2DE0BF3232106C5000535E2 /* home_gray@2x.png in Resources */,
 				A286F43C2334A18C00CFFFDA /* return_black@3x.png in Resources */,
 				A2C6DAF92355BE4D00C299D9 /* coupon_popup_unchoose@3x.png in Resources */,
@@ -1972,7 +1955,6 @@
 				A286F4482334ADEF00CFFFDA /* buy_arrow@3x.png in Resources */,
 				A286F45B2334C86C00CFFFDA /* tutor_coupons@2x.png in Resources */,
 				A216FC02233377160023A368 /* tutor_teacher_state_2@2x.png in Resources */,
-				A286F49D2334EA6B00CFFFDA /* my_default_head@3x.png in Resources */,
 				A216FC1F233380920023A368 /* tutor_feedback_time@2x.png in Resources */,
 				A286F48D2334E8CD00CFFFDA /* my_tutor_feedback@3x.png in Resources */,
 				A25811FB2340C8DD0088E7F5 /* blank_coupon@2x.png in Resources */,
@@ -2002,7 +1984,6 @@
 				A2C6DAEA235596AD00C299D9 /* coupon_gray@3x.png in Resources */,
 				A216FBE7233351900023A368 /* landing_agreement_red@2x.png in Resources */,
 				A286F45F2334C88400CFFFDA /* tutor_coupons_share_button@3x.png in Resources */,
-				A22E12672338AAD900432515 /* my_customer_service_xiaobao@3x.png in Resources */,
 				A286F4852334E8CD00CFFFDA /* my_gray@3x.png in Resources */,
 				A22E128A2338D10700432515 /* landing_discount_price@3x.png in Resources */,
 				A22E12702338AF9800432515 /* addresses.plist in Resources */,
@@ -2012,7 +1993,6 @@
 				A2BC04D0235D99A800A7E1F7 /* version_update_button@3x.png in Resources */,
 				A216FBE3233351890023A368 /* landing_agreement_red@3x.png in Resources */,
 				A2233F7C236AC89B0078D45E /* teacher_gray@2x.png in Resources */,
-				A286F4992334E92300CFFFDA /* my_consumption_record@2x.png in Resources */,
 				A286F4862334E8CD00CFFFDA /* my_customer_service@3x.png in Resources */,
 				A286F48C2334E8CD00CFFFDA /* my_tutor_record@3x.png in Resources */,
 				A2BC04CD235D99A800A7E1F7 /* version_update_button@2x.png in Resources */,
@@ -2348,17 +2328,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = Homework/Homework.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 24M78764G4;
+				DEVELOPMENT_TEAM = XT4M679P6B;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Homework/Libs/ThirdLibs/AlipaySDK",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/vision/Desktop/作业101/Homework/Homework/HomeworkPrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/Homework/HomeworkPrefixHeader.pch";
 				INFOPLIST_FILE = Homework/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2370,9 +2350,9 @@
 					"$(PROJECT_DIR)/Homework/Libs/ThirdLibs/WechatSDK",
 				);
 				MARKETING_VERSION = 3.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.shushan.work101;
+				PRODUCT_BUNDLE_IDENTIFIER = com.work101.vision;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = zuoye101Development;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -2384,17 +2364,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = Homework/Homework.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 24M78764G4;
+				DEVELOPMENT_TEAM = XT4M679P6B;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Homework/Libs/ThirdLibs/AlipaySDK",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/vision/Desktop/作业101/Homework/Homework/HomeworkPrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/Homework/HomeworkPrefixHeader.pch";
 				INFOPLIST_FILE = Homework/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2406,9 +2386,9 @@
 					"$(PROJECT_DIR)/Homework/Libs/ThirdLibs/WechatSDK",
 				);
 				MARKETING_VERSION = 3.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.shushan.work101;
+				PRODUCT_BUNDLE_IDENTIFIER = com.work101.vision;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = work101Distribution;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
